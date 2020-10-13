@@ -1,0 +1,1005 @@
+[
+    {
+        "city": "Alaminos",
+        "lat": "16.141755",
+        "long": "119.9200039",
+        "region": "1"
+    },
+
+    {
+        "city": "Angeles",
+        "lat": "15.1462726",
+        "long": "120.5245996",
+        "region": "3"
+    },
+
+    {
+        "city": "Antipolo",
+        "lat": "14.6655145",
+        "long": "121.1756894",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Bacolod",
+        "lat": "10.6462507",
+        "long": "122.9316879",
+        "region": "6"
+    },
+
+    {
+        "city": "Bacoor",
+        "lat": "14.4160117",
+        "long": "120.933841",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Bago",
+        "lat": "10.5080886",
+        "long": "122.8843522",
+        "region": "6"
+    },
+
+    {
+        "city": "Baguio",
+        "lat": "16.3994724",
+        "long": "120.5537557",
+        "region": "CAR"
+    },
+
+
+    {
+        "city": "Bais",
+        "lat": "9.6090284",
+        "long": "122.9587031",
+        "region": "7"
+    },
+
+    {
+        "city": "Balanga",
+        "lat": "14.6634866",
+        "long": "120.4617507",
+        "region": "3"
+    },
+
+    {
+        "city": "Batac",
+        "lat": "18.0319609",
+        "long": "120.5047384",
+        "region": "1"  
+    },
+
+    {
+        "city": "Batangas",
+        "lat": "13.687134",
+        "long": "120.9648465",
+        "region": "4-A"  
+    },
+
+    {
+        "city": "Bayawan",
+        "lat": "9.5085344",
+        "long": "122.6814843",
+        "region": "7"  
+    },
+
+    {
+        "city": "Baybay",
+        "lat": "10.7215293",
+        "long": "124.7026495",
+        "region": "8" 
+    },
+
+    {
+        "city": "Bayugan",
+        "lat": "8.8193507",
+        "long": "125.6450892",
+        "region": "13"  
+    },
+
+    {
+        "city": "Bislig",
+        "lat": "8.2091813",
+        "long": "126.2648368",
+        "region": "13" 
+    },
+
+    {
+        "city": "Bogo",
+        "lat": "11.0278861",
+        "long": "123.9640397",
+        "region": "7"
+    },
+
+    {
+        "city": "Borongan",
+        "lat": "11.0278861",
+        "long": "123.9640397",
+        "region": "7"
+    },
+    
+    {
+        "city": "Butuan",
+        "lat": "8.8951832",
+        "long": "125.4423624",
+        "region": "13"  
+    },
+
+    {
+        "city": "Cabadbaran",
+        "lat": "9.1498417",
+        "long": "125.5922265",
+        "region": "13"  
+    },
+
+    {
+        "city": "Cabanatuan",
+        "lat": "15.4998997",
+        "long": "120.9460055",
+        "region": "3" 
+    },
+
+    {
+        "city": "Cabuyao",
+        "lat": "14.2495189",
+        "long": "121.0677546",
+        "region": "4-A" 
+    },
+
+    {
+        "city": "Cadiz",
+        "lat": "10.8435457",
+        "long": "123.1215605",
+        "region": "6" 
+    },
+
+    {
+        "city": "Cagayan de Oro",
+        "lat": "8.3824812",
+        "long": "124.5626855",
+        "region": "10" 
+    },
+
+    {
+        "city": "Calamba",
+        "lat": "14.1881861",
+        "long": "14.1881861",
+        "region": "4-A" 
+    },
+
+    {
+        "city": "Calapan",
+        "lat": "13.3934689",
+        "long": "121.1146398",
+        "region": "4-B" 
+    },
+
+    {
+        "city": "Calbayog",
+        "lat": "12.1930254",
+        "long": "124.4634583",
+        "region": "8" 
+    },
+
+    {
+        "city": "Caloocan",
+        "lat": "14.7113191",
+        "long": "120.9592114",
+        "region": "NCR" 
+    },
+
+    {
+        "city": "Candon",
+        "lat": "17.1907524",
+        "long": "120.4381153",
+        "region": "1" 
+    },
+
+    {
+        "city": "Canlaon",
+        "lat": "10.3436196",
+        "long": "123.1648057",
+        "region": "7" 
+    },
+
+    {
+        "city": "Carcar",
+        "lat": "10.1318187",
+        "long": "123.5585094",
+        "region": "7" 
+    },
+
+    {
+        "city": "Catbalogan",
+        "lat": "11.7983476",
+        "long": "124.7453333",
+        "region": "8" 
+    },
+
+    {
+        "city": "Cauayan",
+        "lat": "16.9037072",
+        "long": "121.7210817",
+        "region": "2"  
+    },
+
+    {
+        "city": "Cavite",
+        "lat": "14.4028444",
+        "long": "120.6512953",
+        "region": "4-A" 
+    },
+
+    {
+        "city": "Cebu",
+        "lat": "10.3787569",
+        "long": "123.7762545",
+        "region": "7" 
+    },
+
+    {
+        "city": "Cotabato",
+        "lat": "7.1986748",
+        "long": "124.2094403",
+        "region": "12" 
+    },
+
+    {
+        "city": "Dagupan",
+        "lat": "16.0613705",
+        "long": "120.3078252",
+        "region": "1" 
+    },
+
+    {
+        "city": "Danao",
+        "lat": "10.5288597",
+        "long": "123.9126915",
+        "region": "7"
+    },
+
+    {
+        "city": "Dapitan",
+        "lat": "8.5766774",
+        "long": "123.2934571",
+        "region": "9"
+    },
+
+    {
+        "city": "Dasmariñas",
+        "lat": "14.3153409",
+        "long": "120.93163",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Davao",
+        "lat": "7.2532789",
+        "long": "125.1708824",
+        "region": "11"
+    },
+
+    {
+        "city": "Digos",
+        "lat": "6.8420346",
+        "long": "125.2476386",
+        "region": "11"
+    },
+
+    {
+        "city": "Dipolog",
+        "lat": "8.5084002",
+        "long": "123.2877136",
+        "region": "9"
+    },
+
+    {
+        "city": "Dumagueta",
+        "lat": "9.2957304",
+        "long": "123.2470479",
+        "region": "7"
+    },
+
+    {
+        "city": "El Salvador",
+        "lat": "8.4858941",
+        "long": "124.4221807",
+        "region": "10"
+    },
+
+    {
+        "city": "Escalante",
+        "lat": "10.8143513",
+        "long": "123.3906889",
+        "region": "6"
+    },
+
+
+    {
+        "city": "Gapan",
+        "lat": "15.2930983",
+        "long": "120.9844434",
+        "region": "3"
+    },
+
+    {
+        "city": "General Santos",
+        "lat": "6.1377763",
+        "long": "125.0174312",
+        "region": "12"
+    },
+
+    {
+        "city": "General Trias",
+        "lat": "14.3227079",
+        "long": "120.8279563",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Gingoog",
+        "lat": "8.7808607",
+        "long": "125.0193574",
+        "region": "10"
+    },
+
+    {
+        "city": "Guihulngan",
+        "lat": "10.1728707",
+        "long": "123.1436469",
+        "region": "7"
+    },
+
+    {
+        "city": "Himamaylan",
+        "lat": "10.0541809",
+        "long": "122.8536679",
+        "region": "6"
+    },
+
+    {
+        "city": "Ilagan",
+        "lat": "17.1892084",
+        "long": "121.9641548",
+        "region": "2"
+    },
+
+    {
+        "city": "Iligan",
+        "lat": "8.1630941",
+        "long": "124.232646",
+        "region": "10"
+    },
+
+    {
+        "city": "Iloilo",
+        "lat": "10.7299844",
+        "long": "122.512458",
+        "region": "6"
+    },
+
+    {
+        "city": "Imus",
+        "lat": "14.400491",
+        "long": "120.9014716",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Iriga",
+        "lat": "13.4441071",
+        "long": "123.3639742",
+        "region": "5"
+    },
+
+    {
+        "city": "Isabela",
+        "lat": "6.6685584",
+        "long": "121.9190575",
+        "region": "9"
+    },
+
+    {
+        "city": "Kabankalan",
+        "lat": "9.824941",
+        "long": "122.7085547",
+        "region": "6"
+    },
+
+    {
+        "city": "Kidapawan",
+        "lat": "7.04343",
+        "long": "125.0285317",
+        "region": "12"
+    },
+
+    {
+        "city": "Koronadal",
+        "lat": "6.4645107",
+        "long": "124.8424079",
+        "region": "12"
+    },
+
+    {
+        "city": "La Carlota",
+        "lat": "10.4178345",
+        "long": "122.9794115",
+        "region": "6"
+    },
+
+    {
+        "city": "Lamitan",
+        "lat": "6.650781",
+        "long": "122.0490695",
+        "region": "ARMM"
+    },
+
+    {
+        "city": "Laoag",
+        "lat": "18.1982022",
+        "long": "120.5626562",
+        "region": "1"
+    },
+
+    {
+        "city": "Lapu-lapu",
+        "lat": "10.2654622",
+        "long": "123.9504742",
+        "region": "7"
+    },
+
+    {
+        "city": "Las Piñas",
+        "lat": "14.431339",
+        "long": "120.960072",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Legazpi",
+        "lat": "13.121069",
+        "long": "123.7031342",
+        "region": "5"
+    },
+
+    {
+        "city": "Lipa",
+        "lat": "13.9453821",
+        "long": "121.098527",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Lipa",
+        "lat": "13.9391464",
+        "long": "121.5941553",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Maasin",
+        "lat": "10.192054",
+        "long": "124.7856309",
+        "region": "8"
+    },
+
+    {
+        "city": "Mabalacat",
+        "lat": "15.2460717",
+        "long": "120.3447766",
+        "region": "3"
+    },
+
+    {
+        "city": "Makati",
+        "lat": "14.5546336",
+        "long": "121.0156803",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Malabon",
+        "lat": "14.6747688",
+        "long": "120.9431204",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Malaybay",
+        "lat": "8.1492813",
+        "long": "125.0025321",
+        "region": "10"
+    },
+
+    {
+        "city": "Malolos",
+        "lat": "14.8230035",
+        "long": "120.788909",
+        "region": "3"
+    },
+
+    {
+        "city": "Mandaluyong",
+        "lat": "14.8230035",
+        "long": "120.788909",
+        "region": "3"
+    },
+
+    {
+        "city": "Mandaue",
+        "lat": "10.3456807",
+        "long": "123.9275013",
+        "region": "7"
+    },
+
+    {
+        "city": "Manila",
+        "lat": "14.5965788",
+        "long": "120.9445403",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Marawi",
+        "lat": "8.0234465",
+        "long": "124.2628807",
+        "region": "ARMM"
+    },
+
+    {
+        "city": "Marikina",
+        "lat": "14.6467914",
+        "long": "121.0871534",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Masbate",
+        "lat": "12.3529914",
+        "long": "123.4945707",
+        "region": "5"
+    },
+
+    {
+        "city": "Mati",
+        "lat": "6.6963154",
+        "long": "125.9427045",
+        "region": "11"
+    },
+
+    {
+        "city": "Meycauayan",
+        "lat": "14.7520748",
+        "long": "120.9272845",
+        "region": "3"
+    },
+
+    {
+        "city": "Muñoz",
+        "lat": "15.730841",
+        "long": "120.8703799",
+        "region": "3"
+    },
+
+    {
+        "city": "Muntinlupa",
+        "lat": "14.4083526",
+        "long": "120.9978303",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Naga",
+        "lat": "13.6407274",
+        "long": "123.2354445",
+        "region": "5"
+    },
+
+    {
+        "city": "Naga",
+        "lat": "10.2382272",
+        "long": "123.691463",
+        "region": "7"
+    },
+
+    {
+        "city": "Navotas",
+        "lat": "14.6733029",
+        "long": "120.9026755",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Olongapo",
+        "lat": "14.8722962",
+        "long": "120.307633",
+        "region": "3"
+    },
+
+    {
+        "city": "Ormoc",
+        "lat": "11.0506329",
+        "long": "124.5702763",
+        "region": "8"
+    },
+
+    {
+        "city": "Oroquieta",
+        "lat": "8.446472",
+        "long": "123.6163567",
+        "region": "10"
+    },
+
+    {
+        "city": "Ozamis",
+        "lat": "8.1456207",
+        "long": "123.723113",
+        "region": "10"
+    },
+
+    {
+        "city": "Pagadian",
+        "lat": "7.8725675",
+        "long": "123.2595598",
+        "region": "9"
+    },
+
+    {
+        "city": "Palayan",
+        "lat": "15.5183209",
+        "long": "121.025088",
+        "region": "3"
+    },
+
+    {
+        "city": "Panabo",
+        "lat": "7.3393043",
+        "long": "125.5665319",
+        "region": "11"
+    },
+
+    {
+        "city": "Parañaque",
+        "lat": "14.4843546",
+        "long": "120.97671",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Pasay",
+        "lat": "14.5314227",
+        "long": "120.9894341",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Passi",
+        "lat": "11.1585105",
+        "long": "122.6151443",
+        "region": "6"
+    },
+
+    {
+        "city": "Puerto Princesa",
+        "lat": "9.9126699",
+        "long": "118.4933578",
+        "region": "MIMAROPA"
+    },
+
+    {
+        "city": "Quezon",
+        "lat": "14.6840913",
+        "long": "120.99215",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Roxas",
+        "lat": "11.5644832",
+        "long": "122.6920916",
+        "region": "6"
+    },
+
+    {
+        "city": "Sagay",
+        "lat": "10.8083429",
+        "long": "123.2701974",
+        "region": "6"
+    },
+
+    {
+        "city": "Samal",
+        "lat": "7.0455662",
+        "long": "125.5899557",
+        "region": "11"
+    },
+
+    {
+        "city": "San Carlos",
+        "lat": "10.4707421",
+        "long": "123.2226111",
+        "region": "6"
+    },
+
+    {
+        "city": "San Carlos",
+        "lat": "15.9086328",
+        "long": "120.2764743",
+        "region": "1"
+    },
+
+    {
+        "city": "San Fernando",
+        "lat": "16.6083494",
+        "long": "120.324441",
+        "region": "1"
+    },
+
+    {
+        "city": "San Fernando",
+        "lat": "15.0666551",
+        "long": "120.6262524",
+        "region": "3"
+    },
+
+    {
+        "city": "San Jose",
+        "lat": "15.8020127",
+        "long": "120.9544173",
+        "region": "3"
+    },
+
+    {
+        "city": "San Jose del Monte",
+        "lat": "14.8172534",
+        "long": "121.0528129",
+        "region": "3"
+    },
+
+    {
+        "city": "San Juan",
+        "lat": "14.6022849",
+        "long": "121.0306215",
+        "region": "NCR"
+    },
+
+    {
+        "city": "San Pablo",
+        "lat": "14.0556943",
+        "long": "121.2652422",
+        "region": "4-A"
+    },
+
+    {
+        "city": "San Pedro",
+        "lat": "14.3491271",
+        "long": "121.0236394",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Santo Tomas",
+        "lat": "14.3113149",
+        "long": "121.0645938",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Santa Rosa",
+        "lat": "14.2800222",
+        "long": "121.0532046",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Santiago",
+        "lat": "16.6955039",
+        "long": "121.4063438",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Silay",
+        "lat": "10.7558816",
+        "long": "123.0203083",
+        "region": "6"
+    },
+
+    {
+        "city": "Sipalay",
+        "lat": "9.7461315",
+        "long": "122.3915014",
+        "region": "6"
+    },
+
+    {
+        "city": "Sorsogon",
+        "lat": "12.971228",
+        "long": "123.8278393",
+        "region": "5"
+    },
+
+    {
+        "city": "Surigao",
+        "lat": "9.7970383",
+        "long": "125.5139472",
+        "region": "13"
+    },
+
+    {
+        "city": "Tabaco",
+        "lat": "13.3304113",
+        "long": "123.653288",
+        "region": "5"
+    },
+
+    {
+        "city": "Tabuk",
+        "lat": "17.4148487",
+        "long": "121.3438846",
+        "region": "CAR"
+    },
+
+    {
+        "city": "Tacloban",
+        "lat": "11.2619517",
+        "long": "124.8939492",
+        "region": "8"
+    },
+
+    {
+        "city": "Tacurong",
+        "lat": "6.6642101",
+        "long": "124.6027685",
+        "region": "12"
+    },
+
+    {
+        "city": "Tagaytay",
+        "lat": "14.1173779",
+        "long": "120.9339133",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Tagbilaran",
+        "lat": "9.6637038",
+        "long": "123.8425035",
+        "region": "7"
+    },
+
+    {
+        "city": "Taguig",
+        "lat": "14.5136183",
+        "long": "121.030383",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Tagum",
+        "lat": "7.4246609",
+        "long": "125.7384605",
+        "region": "11"
+    },
+
+    {
+        "city": "Talisay",
+        "lat": "10.2852061",
+        "long": "123.7905164",
+        "region": "7"
+    },
+
+    {
+        "city": "Talisay",
+        "lat": "10.6936756",
+        "long": "123.0180696",
+        "region": "6"
+    },
+
+    {
+        "city": "Tanauan",
+        "lat": "14.0913232",
+        "long": "121.0738416",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Tandag",
+        "lat": "9.0928422",
+        "long": "126.062062",
+        "region": "13"
+    },
+
+    {
+        "city": "Tangub",
+        "lat": "8.1003095",
+        "long": "123.6708421",
+        "region": "10"
+    },
+
+    {
+        "city": "Tanjay",
+        "lat": "9.5043747",
+        "long": "122.9693678",
+        "region": "7"
+    },
+
+    {
+        "city": "Tarlac",
+        "lat": "15.472678",
+        "long": "120.577988",
+        "region": "3"
+    },
+
+    {
+        "city": "Tayabas",
+        "lat": "14.0301596",
+        "long": "121.5530755",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Toledo",
+        "lat": "10.3559369",
+        "long": "123.6142136",
+        "region": "7"
+    },
+
+    {
+        "city": "Trece Martires",
+        "lat": "14.2786941",
+        "long": "120.8340136",
+        "region": "4-A"
+    },
+
+    {
+        "city": "Tuguegarao",
+        "lat": "17.6022296",
+        "long": "121.6894212",
+        "region": "2"
+    },
+
+    {
+        "city": "Urdaneta",
+        "lat": "15.9725043",
+        "long": "120.5277437",
+        "region": "2"
+    },
+
+    {
+        "city": "Valencia",
+        "lat": "7.9142839",
+        "long": "124.992826",
+        "region": "10"
+    },
+
+    {
+        "city": "Valenzuela",
+        "lat": "14.7110438",
+        "long": "120.9401121",
+        "region": "NCR"
+    },
+
+    {
+        "city": "Victorias",
+        "lat": "10.8651627",
+        "long": "123.0599208",
+        "region": "6"
+    },
+
+    {
+        "city": "Vigan",
+        "lat": "17.5635529",
+        "long": "120.3749323",
+        "region": "1"
+    },
+
+    {
+        "city": "Zamboanga",
+        "lat": "7.1629607",
+        "long": "121.870743",
+        "region": "9"
+    }
+
+]
